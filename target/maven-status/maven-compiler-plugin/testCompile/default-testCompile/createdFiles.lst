@@ -1,0 +1,12 @@
+api\utilities\DataProviders.class
+api\tests\UserModuleTestsbyProperties.class
+api\payload\User.class
+api\endpoints\Routes.class
+api\endpoints\StoreEndpoints.class
+api\endpoints\UserEndpoints2.class
+api\tests\StoreModuleTests.class
+api\endpoints\UserEndpoints.class
+api\utilities\ExcelUtility.class
+api\payload\Store.class
+api\tests\UserDataDrivenTests.class
+api\tests\UserModuleTests.class

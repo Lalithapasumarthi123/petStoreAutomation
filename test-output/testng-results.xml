@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-18T11:31:24 IST" name="Default suite" finished-at="2024-07-18T11:31:32 IST" duration-ms="7872">
+    <groups>
+    </groups>
+    <test started-at="2024-07-18T11:31:24 IST" name="Default test" finished-at="2024-07-18T11:31:32 IST" duration-ms="7872">
+      <class name="api.tests.UserModuleTestsbyProperties">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:api.tests.UserModuleTestsbyProperties@5b7a5baa]" started-at="2024-07-18T11:31:24 IST" name="setUp" finished-at="2024-07-18T11:31:25 IST" duration-ms="707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCreateUser()[pri:1, instance:api.tests.UserModuleTestsbyProperties@5b7a5baa]" started-at="2024-07-18T11:31:25 IST" name="testCreateUser" finished-at="2024-07-18T11:31:27 IST" duration-ms="2556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method signature="UserGetByName()[pri:2, instance:api.tests.UserModuleTestsbyProperties@5b7a5baa]" started-at="2024-07-18T11:31:27 IST" name="UserGetByName" finished-at="2024-07-18T11:31:28 IST" duration-ms="1126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserGetByName -->
+        <test-method signature="updateUserByName()[pri:3, instance:api.tests.UserModuleTestsbyProperties@5b7a5baa]" started-at="2024-07-18T11:31:28 IST" name="updateUserByName" finished-at="2024-07-18T11:31:31 IST" duration-ms="2301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserByName -->
+        <test-method signature="deleteUserByusername()[pri:4, instance:api.tests.UserModuleTestsbyProperties@5b7a5baa]" started-at="2024-07-18T11:31:31 IST" name="deleteUserByusername" finished-at="2024-07-18T11:31:32 IST" duration-ms="1128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserByusername -->
+      </class> <!-- api.tests.UserModuleTestsbyProperties -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
